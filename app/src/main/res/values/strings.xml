@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Offline AI Agent</string>
+    <string name="chat_hint">Type a message or speak...</string>
+    <string name="send">Send</string>
+    <string name="copy">Copy</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="clear_conversation">Clear Conversation</string>
+    <string name="new_chat">New Chat</string>
+    <string name="conversations">Conversations</string>
+    <string name="memory">Memory</string>
+    <string name="settings">Settings</string>
+    <string name="model_management">Model Management</string>
+    <string name="load_model">Load Model</string>
+    <string name="unload_model">Unload Model</string>
+    <string name="model_loaded">Model Loaded</string>
+    <string name="model_not_loaded">Model Not Loaded</string>
+    <string name="temperature">Temperature</string>
+    <string name="max_tokens">Max Tokens</string>
+    <string name="enable_memory">Enable Memory</string>
+    <string name="enable_voice">Enable Voice</string>
+    <string name="stream_tokens">Stream Tokens</string>
+    <string name="auto_save_conversations">Auto-Save Conversations</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="thinking">Thinking...</string>
+    <string name="ready">Ready</string>
+</resources>

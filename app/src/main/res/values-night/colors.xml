@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors -->
+    <color name="light_primary">#6C5CE7</color>
+    <color name="light_on_primary">#FFFFFF</color>
+    <color name="light_background">#FFFBFE</color>
+    <color name="light_surface">#FFFBFE</color>
+
+    <!-- Dark theme colors -->
+    <color name="dark_primary">#6C5CE7</color>
+    <color name="dark_on_primary">#FFFFFF</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+</resources>
