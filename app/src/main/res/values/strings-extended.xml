@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline AI Agent</string>
+    <string name="app_description">A fully offline AI assistant that runs directly on your phone</string>
+    
+    <!-- Chat Screen -->
+    <string name="chat_hint">Type a message...</string>
+    <string name="voice_hint">Tap to speak...</string>
+    <string name="send_button">Send</string>
+    <string name="copy_button">Copy</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <string name="regenerate_button">Regenerate</string>
+    <string name="stop_button">Stop</string>
+    <string name="clear_chat">Clear Chat</string>
+    
+    <!-- Conversation Management -->
+    <string name="new_conversation">New Conversation</string>
+    <string name="rename_conversation">Rename</string>
+    <string name="delete_conversation">Delete</string>
+    <string name="pin_conversation">Pin</string>
+    <string name="search_conversations">Search conversations...</string>
+    <string name="no_conversations">No conversations yet. Start a new chat!</string>
+    
+    <!-- Model Management -->
+    <string name="model_management">Model Management</string>
+    <string name="load_model">Load Model</string>
+    <string name="unload_model">Unload Model</string>
+    <string name="model_loaded">Model Loaded</string>
+    <string name="model_not_loaded">Model Not Loaded</string>
+    <string name="model_path_hint">Enter model path (e.g., /sdcard/Download/model.gguf)</string>
+    <string name="loading_model">Loading model...</string>
+    <string name="insufficient_memory">Insufficient RAM. Available: %d MB</string>
+    <string name="recommended_models">Recommended Models</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="temperature">Temperature (Randomness)</string>
+    <string name="temperature_description">0.0 = Deterministic, 2.0 = Creative</string>
+    <string name="max_tokens">Max Tokens (Response Length)</string>
+    <string name="context_length">Context Length</string>
+    <string name="enable_memory">Enable Memory</string>
+    <string name="memory_description">Remember information between conversations</string>
+    <string name="enable_voice">Enable Voice</string>
+    <string name="voice_description">Use voice input and output</string>
+    <string name="stream_tokens">Stream Tokens</string>
+    <string name="stream_description">Show response as it's generated</string>
+    <string name="auto_save_conversations">Auto-Save Conversations</string>
+    <string name="auto_save_description">Automatically save chat history</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="language">Language</string>
+    
+    <!-- Memory Settings -->
+    <string name="memory_settings">Memory Settings</string>
+    <string name="total_memories">Total Memories: %d</string>
+    <string name="clear_all_memories">Clear All Memories</string>
+    <string name="delete_memory_confirm">Delete this memory?</string>
+    <string name="edit_memory">Edit Memory</string>
+    
+    <!-- Status Messages -->
+    <string name="thinking">Thinking...</string>
+    <string name="ready">Ready</string>
+    <string name="typing">Typing...</string>
+    <string name="generating">Generating response...</string>
+    <string name="loading">Loading...</string>
+    <string name="initializing">Initializing...</string>
+    
+    <!-- Errors -->
+    <string name="error_model_not_loaded">Model not loaded. Please load a model first.</string>
+    <string name="error_invalid_path">Invalid model path</string>
+    <string name="error_model_load_failed">Failed to load model</string>
+    <string name="error_generation_failed">Failed to generate response</string>
+    <string name="error_database">Database error</string>
+    <string name="error_permission_denied">Permission denied</string>
+    <string name="error_storage_full">Storage full</string>
+    
+    <!-- Dialogs -->
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    
+    <!-- Voice -->
+    <string name="record_audio">Record Audio</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="recording">Recording...</string>
+    <string name="transcribing">Transcribing...</string>
+    <string name="speaking">Speaking...</string>
+    
+    <!-- Navigation -->
+    <string name="navigation">Navigation</string>
+    <string name="chat">Chat</string>
+    <string name="conversations">Conversations</string>
+    <string name="memory">Memory</string>
+    <string name="models">Models</string>
+    <string name="tools">Tools</string>
+    
+    <!-- General -->
+    <string name="app_name_full">Offline AI Agent - Fully Private Mobile AI Assistant</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="timestamp_format">MMM d, HH:mm</string>
+</resources>
